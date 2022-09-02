@@ -1,2 +1,1 @@
-# webdevelopment
-Coursera online course repository 
+This is a sample repo, Hello World!
